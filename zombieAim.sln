@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "zombieAim", "zombieAim\zombieAim.pyproj", "{9B6F46CB-243D-486F-90B8-F92C9F2D8227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B6F46CB-243D-486F-90B8-F92C9F2D8227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6F46CB-243D-486F-90B8-F92C9F2D8227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3368A668-9406-496A-AA41-E6B35883DC33}
+	EndGlobalSection
+EndGlobal
